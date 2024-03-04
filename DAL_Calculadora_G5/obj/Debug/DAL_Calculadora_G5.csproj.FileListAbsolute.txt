@@ -1,0 +1,6 @@
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\Proyecto_Calculadora_Grupo#5\DAL_Calculadora_G5\bin\Debug\DAL_Calculadora_G5.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\Proyecto_Calculadora_Grupo#5\DAL_Calculadora_G5\bin\Debug\DAL_Calculadora_G5.pdb
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\Proyecto_Calculadora_Grupo#5\DAL_Calculadora_G5\obj\Debug\DAL_Calculadora_G5.csproj.AssemblyReference.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\Proyecto_Calculadora_Grupo#5\DAL_Calculadora_G5\obj\Debug\DAL_Calculadora_G5.csproj.CoreCompileInputs.cache
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\Proyecto_Calculadora_Grupo#5\DAL_Calculadora_G5\obj\Debug\DAL_Calculadora_G5.dll
+C:\Users\ignac\Downloads\PROGRA III\PROYECTOS\Proyecto_Calculadora_Grupo#5\DAL_Calculadora_G5\obj\Debug\DAL_Calculadora_G5.pdb
